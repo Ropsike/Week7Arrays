@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsWithReturns", "FunctionsWithReturns\FunctionsWithReturns.csproj", "{3DFE7342-0DBE-4550-947C-CDCC96E38432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero", "Hero\Hero.csproj", "{1DA7A7B2-8BA5-4BFE-BF2C-E152E02B71E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFE7342-0DBE-4550-947C-CDCC96E38432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFE7342-0DBE-4550-947C-CDCC96E38432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFE7342-0DBE-4550-947C-CDCC96E38432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFE7342-0DBE-4550-947C-CDCC96E38432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA7A7B2-8BA5-4BFE-BF2C-E152E02B71E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA7A7B2-8BA5-4BFE-BF2C-E152E02B71E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA7A7B2-8BA5-4BFE-BF2C-E152E02B71E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA7A7B2-8BA5-4BFE-BF2C-E152E02B71E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923B7A13-56F7-4346-988A-E5732424AD65}
+	EndGlobalSection
+EndGlobal
